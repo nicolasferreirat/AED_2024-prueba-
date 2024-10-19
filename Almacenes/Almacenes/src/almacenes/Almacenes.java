@@ -22,7 +22,7 @@ public class Almacenes {
         
         
        
-        IAlmacen almacenAux=new Almacen();
+        IAlmacen almacenAux=new Almacen();jjj
        
     
         String[] archivo=ManejadorArchivosGenerico.leerArchivo("c:\\altas.txt");
